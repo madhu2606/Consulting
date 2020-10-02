@@ -4,7 +4,7 @@ include("header.php");
 
 <div class="row">
     <img src="img/media-2.jpg" class="w-100" alt="" srcset="">
-    <h1 class="overlay-img">Media, Advertising &<br> Communication</h1>
+    <!-- <h1 class="overlay-img">Media, Advertising &<br> Communication</h1> -->
 </div>
 <br>
 <div class="container">

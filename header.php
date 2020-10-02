@@ -61,19 +61,19 @@
 							Industries
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink2">
-							<a class="dropdown-item" href="#">Automobile</a>
-							<a class="dropdown-item" href="#">Banking Insurance</a>
-							<a class="dropdown-item" href="#">BPO & KPO</a>
-							<a class="dropdown-item" href="#">Consumer & Services</a>
-							<a class="dropdown-item" href="#">Financial Services</a>
-							<a class="dropdown-item" href="#">FMCG</a>
-							<a class="dropdown-item" href="#">Information Technology</a>
-							<a class="dropdown-item" href="#">Infrastructure</a>
-							<a class="dropdown-item" href="#">Life Sciences & Healthcare</a>
-							<a class="dropdown-item" href="#">Manufacturing & Processes</a>
-							<a class="dropdown-item" href="#">Retailing</a>
-							<a class="dropdown-item" href="#">Media</a>
-							<a class="dropdown-item" href="#">Telecommunication</a>
+							<a class="dropdown-item" href="./automobile.php">Automobile</a>
+							<a class="dropdown-item" href="./banking.php">Banking Insurance</a>
+							<a class="dropdown-item" href="./bpo-kpo.php">BPO & KPO</a>
+							<a class="dropdown-item" href="./consumer-services.php">Consumer & Services</a>
+							<a class="dropdown-item" href="./financial.php">Financial Services</a>
+							<a class="dropdown-item" href="./fmcg.php">FMCG</a>
+							<a class="dropdown-item" href="./IT.php">Information Technology</a>
+							<a class="dropdown-item" href="./infrastructure.php">Infrastructure</a>
+							<a class="dropdown-item" href="./healthcare.php">Life Sciences & Healthcare</a>
+							<a class="dropdown-item" href="./manufacturing.php">Manufacturing & Processes</a>
+							<a class="dropdown-item" href="./retailing.php">Retailing</a>
+							<a class="dropdown-item" href="./media.php">Media</a>
+							<a class="dropdown-item" href="./telecommunication.php">Telecommunication</a>
 						</div>
 					</li>
 					<li class="nav-item">
