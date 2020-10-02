@@ -190,3 +190,46 @@ p.count_p {
 
 }
 /* counter */
+
+/* automobile */
+.overlay-img{
+    left: 8%;
+    position: absolute;
+    top: 48%;
+}
+/* automobile */
+
+/* sidebar */
+.side-bar {
+    background-color: #199bf1;
+    color: white;
+    padding-top: 5px;
+    /* margin-top: 10px; */
+}
+.side-bar ul {
+	list-style: none;
+	line-height: 2.5;
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
+.side-bar ul li {
+	border-bottom: 1px solid #fff;
+}
+.side-bar ul li a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 17px;
+    font-weight: 600;
+}
+.side-bar ul li a:hover{
+	color: black;
+	
+}
+.sidebar-title {
+    font-size: 20px;
+    font-weight: 900;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+/* sidebar */
